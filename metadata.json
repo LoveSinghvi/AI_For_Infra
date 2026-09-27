@@ -1,0 +1,6 @@
+{
+  "name": "D Infra.Bharat",
+  "description": "Sovereign Digital Public Infrastructure (DPI) & Multimodal AI platform for citizen grievance synthesis, capital prioritization, and transparent fund allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
